@@ -1,0 +1,90 @@
+[
+
+  {
+    "category": "roast",
+    "text": "Your code works, but even your computer is confused."
+  },
+  {
+    "category": "roast",
+    "text": "Your variable names are fighting for survival."
+  },
+  {
+    "category": "roast",
+    "text": "You don't have technical debt. You have a technical mortgage."
+  },
+  {
+    "category": "general",
+    "text": "It works on my machine."
+  },
+  {
+    "category": "general",
+    "text": "The bug disappeared when I showed it to someone."
+  },
+  {
+    "category": "backend",
+    "text": "The API is not broken, it is exploring new behavior."
+  },
+  {
+    "category": "backend",
+    "text": "The database needed some emotional support."
+  },
+  {
+    "category": "frontend",
+    "text": "CSS decided to create its own design system."
+  },
+  {
+    "category": "frontend",
+    "text": "The button moved because it wanted freedom."
+  },
+  {
+    "category": "docker",
+    "text": "The container escaped during deployment."
+  },
+  {
+    "category": "docker",
+    "text": "Docker is working. We just don't understand its feelings."
+  },
+  {
+    "category": "ai",
+    "text": "The AI became too creative."
+  },
+  {
+    "category": "ai",
+    "text": "The model hallucinated a vacation request."
+  },
+  {
+    "category": "horoscope",
+    "text": "Mercury is in retrograde. Do not deploy on Friday."
+  },
+  {
+    "category": "horoscope",
+    "text": "Your bugs are aligned with the stars today."
+  },
+  {
+    "category": "horoscope",
+    "text": "The universe says: avoid touching legacy code."
+  },
+
+  {
+    "category": "ai",
+    "text": "The AI understood the prompt too well and became dangerous."
+  },
+  {
+    "category": "ai",
+    "text": "The model did not hallucinate. It created an alternative reality."
+  },
+  {
+    "category": "ai",
+    "text": "The AI is currently thinking about its life choices."
+  },
+
+  {
+    "category": "daily",
+    "text": "Today is a good day to fix that bug from 6 months ago."
+  },
+  {
+    "category": "daily",
+    "text": "Today's mission: change one line and hope nothing breaks."
+  }
+
+]

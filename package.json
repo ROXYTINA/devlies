@@ -1,7 +1,7 @@
 {
   "name": "devlies",
   "version": "0.1.0",
-  "description": "Funny programmer excuses for developers.",
+  "description": "Funny developer excuses from your terminal",
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
@@ -9,17 +9,23 @@
   },
   "scripts": {
     "dev": "tsx src/cli.ts",
-    "build": "tsc",
-    "test": "vitest",
-    "lint": "eslint .",
-    "format": "prettier --write ."
+    "build": "tsc"
   },
   "keywords": [
-    "cli",
-    "fun",
     "developer",
+    "fun",
+    "cli",
     "programming",
     "excuses"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "figlet": "^1.11.2"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "tsx": "^4.10.0",
+    "typescript": "^5.2.2"
+  }
 }
