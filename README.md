@@ -1,5 +1,4 @@
-# 🤥 devlies
-
-Generate funny programmer excuses from your terminal.
+# 🤥 TINA 
+will generate funny programmer excuses from your terminal.
 
 Coming soon...
