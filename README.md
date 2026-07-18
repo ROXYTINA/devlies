@@ -1,4 +1,4 @@
-# 🤥 TINA
+# 🤥 Devlies
 
 > Developer excuses generator. Because every bug deserves an explanation.
 
