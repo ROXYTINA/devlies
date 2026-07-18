@@ -9,13 +9,13 @@ TINA will generate funny programmer excuses directly from your terminal.
 Run:
 
 ```bash
-npx devlies
+npx @roxytina/devlies
 ```
 
 or install:
 
 ```bash
-npm install -g devlies
+npm install -g @roxytina/devlies
 ```
 
 ---

@@ -1,6 +1,8 @@
+import { createRequire } from "module";
 
-// @ts-ignore
-import excuses from "./data/excuses.json";
+const require = createRequire(import.meta.url);
+
+const excuses = require("./data/excuses.json");
 
 
 export interface Excuse {
@@ -22,7 +24,7 @@ export function excuse(category?: string): Excuse {
 
 
     if (available.length === 0) {
-        available = excuses as Excuse[];
+        available = excuses;
     }
 
 
