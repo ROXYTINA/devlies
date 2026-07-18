@@ -1,0 +1,25 @@
+{
+  "name": "devlies",
+  "version": "0.1.0",
+  "description": "Funny programmer excuses for developers.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "bin": {
+    "devlies": "./dist/cli.js"
+  },
+  "scripts": {
+    "dev": "tsx src/cli.ts",
+    "build": "tsc",
+    "test": "vitest",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "cli",
+    "fun",
+    "developer",
+    "programming",
+    "excuses"
+  ],
+  "license": "MIT"
+}
