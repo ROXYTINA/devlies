@@ -1,6 +1,6 @@
 {
   "name": "devlies",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Funny developer excuses from your terminal",
   "publishConfig": {
     "access": "public"
